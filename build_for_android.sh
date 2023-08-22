@@ -38,7 +38,7 @@ safeMakeDir() {
 }
 
 ## Android NDK
-export NDK_ROOT="$NDK_ROOT"
+export NDK_ROOT="/Users/dev/Documents/Android_Env/Sdk/ndk/23.2.8568313"
 
 if [ -z "$NDK_ROOT" ]; then
 	echo "Please set your NDK_ROOT environment variable first"

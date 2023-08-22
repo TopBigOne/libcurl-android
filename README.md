@@ -16,7 +16,7 @@ For example:
 ```
 export NDK_ROOT=your_ndk_path
 ```
-
+# ndk 版本23 起，太低不行；
 Install dependent:
 
 + **autoconf** >= 2.57
